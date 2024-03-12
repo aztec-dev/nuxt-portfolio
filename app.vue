@@ -1,6 +1,8 @@
 <template>
   <div>
-    <!-- <h1 class="">HELLO WORLD</h1> -->
     <SiteHeader />
+    <main class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+      <router-view />
+    </main>
   </div>
 </template>
