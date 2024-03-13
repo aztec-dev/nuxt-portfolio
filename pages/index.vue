@@ -35,7 +35,9 @@ export default {}
   </section>
 
   <section>
-    <h2 class="text-3xl font-bold mt-8">Latest Learning Activities</h2>
+    <h2 class="text-3xl font-bold mt-8 text-green-600">
+      Latest Learning Activities
+    </h2>
   </section>
 </template>
 
