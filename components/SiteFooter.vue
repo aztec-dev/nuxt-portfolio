@@ -6,7 +6,7 @@ const links = [
 </script>
 
 <template>
-  <footer class="bg-gray-800">
+  <footer class="bg-emerald-800">
     <section
       class="mx-auto max-w-7xl px-2 sm:px-4 lg:py-6 text-gray-300 flex flex-row"
     >
