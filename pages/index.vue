@@ -21,6 +21,10 @@ export default {}
         technology and software, and building things - whether it be programs,
         art or anything that I can get my hands on.
       </p>
+
+      <p class="text-green-500 text-lg py-5 mr-11 text-justify">
+        Check out what I've been working on 😎
+      </p>
     </div>
 
     <img
