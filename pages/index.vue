@@ -33,7 +33,7 @@ export default {}
   </section>
 
   <section>
-    <h2 class="text-3xl font-bold mt-8 text-stone-100">
+    <h2 class="text-3xl font-bold my-8 text-stone-100">
       Latest Learning Activities
     </h2>
   </section>
