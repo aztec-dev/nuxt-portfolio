@@ -5,7 +5,17 @@ export default defineNuxtConfig({
   content: {
     highlight: {
       theme: 'nord',
-      preload: ['ts', 'js', 'html', 'css', 'json', 'yaml', 'md', 'markdown']
+      preload: [
+        'ts',
+        'js',
+        'html',
+        'css',
+        'json',
+        'yaml',
+        'md',
+        'markdown',
+        'vue'
+      ]
     }
   },
   devtools: { enabled: true }
