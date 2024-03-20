@@ -29,26 +29,38 @@ createApp({
 
 What I just learnt about Vue is that Vue uses something called the single-file component. This basically means that it composes a file using a Script (JavaScript), Template (HTML), and style (CSS) all in a single file. I have also learnt about API styles and what API's are available to use.
 
+I also took on the opportunity to use the integrated editor to try out basic Vue components.
+
+Finally, I started working on my very own vue application, which is still a work in progress.
+
 ### Challenges
 
-[Describe any challenges or difficulties you encountered during your learning process.]
+It was a bit difficult to understand how to use the APIs' and what the '@' symbol means. It is a bit overwhelming seeing all of the APIs' and not knowing how and when to use them.
+
+The main challenges are in the style section as I dont really understand how to style a webpage yet.
 
 ### Solutions
 
-[Explain how you overcame the challenges mentioned above.]
+I believe the main solution to my problem is time and persitence. I think that I should become more familiar with the APIs' the more I use them and my styling should improve over time.
 
 ### Key Takeaways
 
-[List the key takeaways or lessons learned from your learning experience.]
+The key takaways are:
+
+- The structure of a Vue application consists script, template and style
+
+- The use of APIs' - when and how to use them
 
 ### Next Steps
 
-[Outline the next steps or actions you plan to take based on your learning.]
+I will try to get more familiar with the structure of it and how to use basic features like v-for and other scripting components of Vue.
 
 ### Resources
 
-[Include any resources or references that were helpful in your learning journey.]
+[Vue API reference](https://vuejs.org/api/)
+[Vue Quickstart](https://vuejs.org/guide/quick-start.html)
+[Vue browser editor](https://vuejs.org/tutorial/#step-1)
 
 ### Reflection
 
-[Reflect on your overall experience and any personal insights gained.]
+This learning entry was a simple one to act as a place holder so take it with a grain of salt.
